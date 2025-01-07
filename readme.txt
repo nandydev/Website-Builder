@@ -70,7 +70,8 @@ Yes, all templates are fully responsive, ensuring your website looks great on de
 
 1. **AI-Powered Interface**  
    *A guided interface to generate professional websites using AI.*  
-   Screenshot-1: `assets/screenshot-1.png`
+   ![AI-Powered Interface](https://raw.githubusercontent.com/<nandydev>/<Website-Builder>/main/screenshot-1.png)
+
 
 2. **Elementor Customization**  
    *Edit templates effortlessly with Elementor's drag-and-drop tools.*  
