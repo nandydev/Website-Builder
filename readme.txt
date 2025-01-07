@@ -32,13 +32,19 @@ Whether you're building a portfolio, blog, or business site, this plugin provide
 
 == Installation ==
 
-1. **Download the Plugin**: Get the ZIP file from WordPress.org or another trusted source.
-2. **Upload via WordPress**:
-   - Go to your WordPress Dashboard.
-   - Navigate to `Plugins > Add New`.
-   - Click `Upload Plugin` and choose the downloaded file.
-3. **Install and Activate**: Once uploaded, click `Install Now` and then `Activate`.
-4. **Start Building**: Find AI Website Builder under the **Gravity Write** menu in your WordPress Dashboard.
+1. **Download the Plugin**  
+   Visit the official website [Gravity Write - AI Website Builder](https://gravitywrite.com/ai-website-builder) to download the plugin ZIP file.
+
+2. **Upload via WordPress**  
+   - Go to your WordPress Dashboard.  
+   - Navigate to **Plugins > Add New**.  
+   - Click **Upload Plugin** and select the downloaded ZIP file.
+
+3. **Install and Activate**  
+   - Click **Install Now** and then **Activate**.
+
+4. **Start Building**  
+   - Once activated, you can start creating your website with AI Website Builder under the **Gravity Write** menu.
 
 == Frequently Asked Questions ==
 
